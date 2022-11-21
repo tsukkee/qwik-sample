@@ -1,0 +1,9 @@
+input {
+  width: 3em;
+  text-align: center;
+}
+
+.count {
+  padding: 4px;
+  font-size: 20px;
+}
